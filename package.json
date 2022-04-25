@@ -1,0 +1,21 @@
+{
+  "name": "ZoomInfo-Assignment-Backend",
+  "version": "1.0.0",
+  "description": "backend for zoominfo assigment",
+  "main": "index.js",
+  "author": "nati",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
